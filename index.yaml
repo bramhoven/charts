@@ -3,6 +3,16 @@ entries:
   wildduck:
   - apiVersion: v2
     appVersion: 1.37.4
+    created: "2023-09-13T10:34:38.72842901Z"
+    description: A chart for running a whole wildduck installation
+    digest: 2e5a4e905820d4b08be0d087162c88b0ad06bfaa4070417564234dc78a6fa805
+    name: wildduck
+    type: application
+    urls:
+    - https://github.com/bramhoven/charts/releases/download/wildduck-0.1.42/wildduck-0.1.42.tgz
+    version: 0.1.42
+  - apiVersion: v2
+    appVersion: 1.37.4
     created: "2023-09-13T09:24:47.487382785Z"
     description: A chart for running a whole wildduck installation
     digest: 49d8d38bb07978362f1ddcfd06c5a58fab3d7bfab10db54c054293e6e3df36df
